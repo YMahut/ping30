@@ -1,5 +1,5 @@
 # ping30
-Repertoire "pi" :
+Repertoire "raspberry" :
 	- code du rapsberry:
 		- prise de photo
 		- extraction des visages
@@ -7,8 +7,10 @@ Repertoire "pi" :
 Repertoire "Java" : 
   -Code java application enseignant + administrateur
  
-Repertoire "Serveur" :
+Repertoire "Base de données" 
 
-Repertoire "Docker" :
+Repertoire "Docker" 
 
-Repertoire "Comparaison images"
+Repertoire "Iso et img Debian" : Contient les iso et les images utilisées pour le projet
+
+Repertoire "comparaison d'image" : Code de Siqi et JA
