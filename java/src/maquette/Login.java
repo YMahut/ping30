@@ -3,14 +3,14 @@ import java.awt.*;
 
 import javax.swing.*; 
 
-import ../ping30.Cours;
-import ../ping30.Ecole;
-import ../ping30.Enseignant;
-import ../ping30.Etudiant;
-import ../ping30.GroupeEtudiant;
-import ../ping30.PresenceEtudiant;
-import ../ping30.Salle;
-import ../DAO.EnseignantDAO;
+import ping30.Cours;
+import ping30.Ecole;
+import ping30.Enseignant;
+import ping30.Etudiant;
+import ping30.GroupeEtudiant;
+import ping30.PresenceEtudiant;
+import ping30.Salle;
+import DAO.EnseignantDAO;
 
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
