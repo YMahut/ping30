@@ -3,14 +3,14 @@ import java.awt.*;
 
 import javax.swing.*; 
 
-import ping30.Cours;
-import ping30.Ecole;
-import ping30.Enseignant;
-import ping30.Etudiant;
-import ping30.GroupeEtudiant;
-import ping30.PresenceEtudiant;
-import ping30.Salle;
-import DAO.EnseignantDAO;
+import ../ping30.Cours;
+import ../ping30.Ecole;
+import ../ping30.Enseignant;
+import ../ping30.Etudiant;
+import ../ping30.GroupeEtudiant;
+import ../ping30.PresenceEtudiant;
+import ../ping30.Salle;
+import ../DAO.EnseignantDAO;
 
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
@@ -69,9 +69,9 @@ public class Login extends JFrame implements ActionListener{
           jp3=new JPanel();  
           jp4=new JPanel();                 
             
-          jlb1=new JLabel("USER  ID£º");  
-          jlb2=new JLabel("PASSWORD£º");  
-          jlb3=new JLabel("SHABALAB£º");  
+          jlb1=new JLabel("USER  IDÂ£Âº");  
+          jlb2=new JLabel("PASSWORDÂ£Âº");  
+          jlb3=new JLabel("SHABALABÂ£Âº");  
             
           jtf=new JTextField(10);  
           jpf=new JPasswordField(10);  
